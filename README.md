@@ -6,4 +6,11 @@
 + 集成angular.js
 ## 使用方法
 
-        方法非常简单 , 设置权限直接访问 
+> ​    方法非常简单 , 创建index.php引入`require_once 'EntryPHP/EntryPHP.php';`设置权限直接访问index.php
+
+目录结构
+
+- EntryPHP
+  - EntryPHP/EntryPHP.php
+  - ......
+- index.php
