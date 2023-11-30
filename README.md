@@ -23,3 +23,7 @@ require_once 'EntryPHP/EntryPHP.php';
   - EntryPHP/EntryPHP.php
   - ......
 - index.php
+
+
+
+如果创建文件是index.php则会生成Index的项目，如果想创建Admin项目，则使用创建admin.php访问
